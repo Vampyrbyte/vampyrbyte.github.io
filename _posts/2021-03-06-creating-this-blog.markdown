@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating This Blog
-date: 2020-03-06 00:00:00 +0000
+date: 2021-03-06 00:00:00 +0000
 description: Creating this very blog using Jekyll and GitHub Pages # Add post description (optional)
 img:  2021-03-06/jekyll.png # Add image post (optional)
 tags: [blog, github, jekyll] # add tag
