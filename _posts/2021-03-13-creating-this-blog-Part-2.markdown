@@ -18,7 +18,7 @@ This is the first step of this blog where I have had to spend some money. ".com"
 
 There are some important things to remember when buying a domain. Perhaps the biggest is that your purchase of the domain will expire if you do not renew it, once the domain has expired you will lose control of your domain. Generally the service that you use to purchase a domain will allow you to automatically renew with them, but it is very important to keep payment details up to date. You will also need to provide contact details that will be publicly visible unless you opt in to a service, usually for a fee, to keep them hidden. However they must still be provided to the registrar and they must be kept up to date. 
 
-I used (namecheap.com)[https://www.namecheap.com] to purchase "techwalters.com". They have a nice search engine for domain names that will check hundreds of TLDs for you. Perhaps your choice of name isnt available on ".com" but might be available on ".net" or ".dev". The purchasing process will likely be similar on other services and with namecheap was very easy. By far the most difficult part of the process is choosing that you like and is available!
+I used [namecheap.com](https://www.namecheap.com) to purchase "techwalters.com". They have a nice search engine for domain names that will check hundreds of TLDs for you. Perhaps your choice of name isnt available on ".com" but might be available on ".net" or ".dev". The purchasing process will likely be similar on other services and with namecheap was very easy. By far the most difficult part of the process is choosing that you like and is available!
 
 ### Setting the custom domain.
 
