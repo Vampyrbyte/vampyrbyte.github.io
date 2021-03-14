@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   An IT infrastructure and general technology blog from Jim Walters. An IT Infrastructure technician based in Berkshire.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.techwalters.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -14,7 +14,7 @@ social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: vampyrbyte # add your Github handle
 social-linkedin: jim-walters-7baa4530 # add your Linkedin handle
-social-email: james.lee.walters@gmail.com # add your Email address
+social-email: jim@techwalters.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
